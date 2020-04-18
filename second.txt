@@ -1,2 +1,0 @@
-second.txt
-文字コードをUTF-8へ変更
