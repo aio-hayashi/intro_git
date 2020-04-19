@@ -5,3 +5,4 @@ Gitの練習をしていきます。
 文字コードをUTF-8へ変更
 ・git rm
 ・git status
+・git diff
